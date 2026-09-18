@@ -2377,14 +2377,31 @@ function getActiveGameSlug() {
   return null;
 }
 
+// Haptic Feedback Utility (Physical feedback on touch devices)
+function triggerHaptic(duration = 10) {
+  if (typeof navigator !== 'undefined' && 'vibrate' in navigator) {
+    try {
+      navigator.vibrate(duration);
+    } catch (_) {}
+  }
+}
+
 // Screen Transitions
 function showHomeView() {
   elements.playView.classList.add('hidden');
+  elements.playView.classList.remove('view-enter');
+  
   elements.homeView.classList.remove('hidden');
+  elements.homeView.classList.add('view-enter');
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      elements.homeView.classList.remove('view-enter');
+    });
+  });
   
   // Stop the iframe content
   elements.gameIframe.src = 'about:blank';
-  document.title = 'Unblocked Games 77 Premium';
+  document.title = 'Recess Lab Premium - Play 250+ Best Unblocked Games';
   
   // Recalculate layout
   renderGames();
@@ -2392,12 +2409,20 @@ function showHomeView() {
 
 function showPlayView(game) {
   elements.homeView.classList.add('hidden');
+  elements.homeView.classList.remove('view-enter');
+  
   elements.playView.classList.remove('hidden');
+  elements.playView.classList.add('view-enter');
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      elements.playView.classList.remove('view-enter');
+    });
+  });
   
   // Set details
   elements.gameTitle.textContent = game.name;
   elements.gameCategory.textContent = game.categories.join(', ');
-  document.title = `${game.name} - Play Unblocked Games 77`;
+  document.title = `${game.name} - Play Recess Lab Premium`;
   
   // Set iframe source
   elements.gameIframe.src = game.play_url;
@@ -2421,6 +2446,7 @@ function showPlayView(game) {
 
 // Theme Toggle
 function toggleTheme() {
+  triggerHaptic(8);
   const current = document.documentElement.getAttribute('data-theme') || 'dark';
   const newTheme = current === 'dark' ? 'light' : 'dark';
   document.documentElement.setAttribute('data-theme', newTheme);
@@ -2456,6 +2482,7 @@ function renderCategories() {
     
     button.textContent = label;
     button.addEventListener('click', () => {
+      triggerHaptic(8);
       currentCategory = c;
       document.querySelectorAll('.cat-btn').forEach(btn => btn.classList.remove('active'));
       button.classList.add('active');
@@ -2656,6 +2683,7 @@ function setupFeatured() {
 
 // User Actions: Favorites
 function toggleFavorite(slug) {
+  triggerHaptic(12);
   const index = favorites.indexOf(slug);
   if (index === -1) {
     favorites.push(slug);
@@ -2690,6 +2718,7 @@ function updateFavoriteUI(slug) {
 
 // User Actions: Voting
 function handleVote(slug, type) {
+  triggerHaptic(8);
   const currentVote = ratings[slug];
   
   if (currentVote === type) {
