@@ -16,7 +16,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/2048.png"
   },
   {
     "slug": "5-nights-at-freddys",
@@ -25,7 +25,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/5 Nights At Freddy's.webp"
   },
   {
     "slug": "ado-cars-drifter",
@@ -43,7 +43,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/car/Ado Stunt Cars 3.jpg"
   },
   {
     "slug": "american-touchdown",
@@ -61,7 +61,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Appel.png"
   },
   {
     "slug": "archer-hero",
@@ -97,7 +97,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Axis Football League.png"
   },
   {
     "slug": "backflip-challenge",
@@ -106,7 +106,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Backflip Challenge.webp"
   },
   {
     "slug": "ball-blast",
@@ -115,7 +115,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Ball Blast.png"
   },
   {
     "slug": "basket-hoop",
@@ -124,7 +124,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWDOksAnVDC51NYBBRgJStFTwecgu7bnMFISa3KCi4DKqTEdVEh02sMGFOHVEyBgvWl0UeIYPOQTQhkop7NZKVYeQZITQhNcrBkf55Y_ToPyYUloACy_GSac5vuUR5CjLCFRvkdt5l5c2QrI6p_lwML0MGp5QkkOWZ3dqi5SnHqlE0kLk7xnXDq0Xne8Pd3_lzLA85QdBP8iEggl_TYljU8fXRKg1BVnvbpJXuT-n8=w1280"
+    "thumbnail_url": "thumbnails/classic/Basket Hoop.webp"
   },
   {
     "slug": "basketball-king",
@@ -178,7 +178,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Blocky Blast.webp"
   },
   {
     "slug": "bloons-tower-defense-3",
@@ -187,7 +187,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Bloons Tower Defense.webp"
   },
   {
     "slug": "boat-simulator",
@@ -205,7 +205,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Brick Tetris.webp"
   },
   {
     "slug": "bullet-master",
@@ -214,7 +214,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQV72wGfttykhsmtKPmBIJngfXn8knDulPKka0vv6R3auTg68DJG3-Xi7rcNKH_6T3aZnGz1tQVefTKdA1RZ-sSy9Fv5eT70qTjrVcLbdcxzgLbu6C8EiWjh3fu2nPamoObnG4ZPigOM0PTVNK56craxKdb2gB1-upKqTNvn69p1cVA2Q-2ZmNZx3NIx54s=w1280"
+    "thumbnail_url": "thumbnails/classic/Bullet Master.jpg"
   },
   {
     "slug": "burnout-city",
@@ -241,7 +241,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Cactus McCoy.jpg"
   },
   {
     "slug": "cactus-mccoy-2",
@@ -250,7 +250,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Cactus McCoy 2.webp"
   },
   {
     "slug": "cake-match-puzzle",
@@ -277,7 +277,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/car/Car Wash.png"
   },
   {
     "slug": "cars-simulator",
@@ -304,7 +304,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Charge It.jpg"
   },
   {
     "slug": "chase-hq",
@@ -313,7 +313,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Chase HQ.png"
   },
   {
     "slug": "checkout-frenzy",
@@ -331,7 +331,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQVk_L1snuNcQWwUOvbJtJzKfax21Lp2joldxBvESuvvH_6WFJSJPMXF6LQi2WpGwow1qJPdLWRSGpms-WgVGYyHBTgCrevCEtnBDc-PmTzgUbF2ZZGy42zZNH6IaRnTvQkRIgRKvK4Vg-Q6e-3H1lOXORv6qBdWJQS6EwXwjHNDKrR3NS97iE06cQTT0Y0=w1280"
+    "thumbnail_url": "thumbnails/classic/Chess.webp"
   },
   {
     "slug": "city-driver",
@@ -349,7 +349,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQVVRIL9JMEuI3DR5d87Hy0LHIn7b-J4IMSvAbcV8VDAhkazjr9IrLVovnDwliIu1hbh5KPY8y-AAgrQnUaCJ4RidgJZ-nDI6SxRySNWHy14XV18a9OhY58u8zpRlp_7NzC18qxnHYAG8LkU4MGfvH0lmPLRJrrjCk22oUIQV8heOtMNGSpReWFg95ve=w1280"
+    "thumbnail_url": "thumbnails/classic/Classicube.jpg"
   },
   {
     "slug": "conquer-kingdoms",
@@ -367,7 +367,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Crazy Ball 3D.jpg"
   },
   {
     "slug": "crazy-car-arena",
@@ -385,7 +385,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Crazy Chase.jpg"
   },
   {
     "slug": "crazy-drifter",
@@ -394,7 +394,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/car/Crazy Drifter.png"
   },
   {
     "slug": "crazy-karts",
@@ -412,7 +412,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/car/Crazy Moto Racing.jpg"
   },
   {
     "slug": "crazy-parking",
@@ -439,7 +439,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Crazy Stickman Physics.jpg"
   },
   {
     "slug": "darkness-survivors",
@@ -457,7 +457,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Davo.webp"
   },
   {
     "slug": "diggy",
@@ -466,7 +466,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Diggy.png"
   },
   {
     "slug": "dino-chaos-idle",
@@ -493,7 +493,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/car/Drag Racing.png"
   },
   {
     "slug": "dragon-world",
@@ -511,7 +511,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Draw Here.jpg"
   },
   {
     "slug": "draw-the-car-path",
@@ -538,7 +538,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/car/Drift Cars.png"
   },
   {
     "slug": "drift-fury",
@@ -547,7 +547,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/car/Drift Fury.jpg"
   },
   {
     "slug": "drift-hunters",
@@ -556,7 +556,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWh3MOcBH6cgxIXqDLHpVfii5K3D0rQP2qQBp-jSlJla4P0Bi0okpKr9P1r4Xz1aK0PGaHC9vhdifYl-jZ6WusUE-pLsCDDwE8shf_Onit7lJp_OXnBXtLq3SG6JCQtd-BP8W1vZRokay8U7cqPwOzCGgMTJ31nJnt1zgSSqBn9rHwGFvZPLf4YVTPhG4M=w1280"
+    "thumbnail_url": "thumbnails/car/Drift Hunters.webp"
   },
   {
     "slug": "drift-hunters-2",
@@ -565,7 +565,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWh3MOcBH6cgxIXqDLHpVfii5K3D0rQP2qQBp-jSlJla4P0Bi0okpKr9P1r4Xz1aK0PGaHC9vhdifYl-jZ6WusUE-pLsCDDwE8shf_Onit7lJp_OXnBXtLq3SG6JCQtd-BP8W1vZRokay8U7cqPwOzCGgMTJ31nJnt1zgSSqBn9rHwGFvZPLf4YVTPhG4M=w1280"
+    "thumbnail_url": "thumbnails/car/Drift Hunters 2.webp"
   },
   {
     "slug": "drift-hunters-pro",
@@ -601,7 +601,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Duck Life 2.webp"
   },
   {
     "slug": "duck-life-3",
@@ -610,7 +610,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Duck Life 3.webp"
   },
   {
     "slug": "duck-life-4",
@@ -619,7 +619,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Duck Life 4.png"
   },
   {
     "slug": "edys-car-simulator",
@@ -655,7 +655,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/car/Escape Car.webp"
   },
   {
     "slug": "evil-santa",
@@ -682,7 +682,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/FNAF 2.webp"
   },
   {
     "slug": "fnaf-4",
@@ -691,7 +691,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/FNAF 4.webp"
   },
   {
     "slug": "fps-strike",
@@ -709,7 +709,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Fall Boys.png"
   },
   {
     "slug": "fantasy-tower-defense",
@@ -718,7 +718,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Fantasy Tower Defense.png"
   },
   {
     "slug": "find-it",
@@ -754,7 +754,7 @@ const GAMES = [
     "categories": [
       "io"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/io/ForceZ.io.webp"
   },
   {
     "slug": "fort-drifter",
@@ -763,7 +763,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/car/Fort Drifter.jpg"
   },
   {
     "slug": "fortnite-z",
@@ -790,7 +790,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Friday Night Funkin.jpg"
   },
   {
     "slug": "fun-party-makeup",
@@ -799,7 +799,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Fun Party Makeup.webp"
   },
   {
     "slug": "funny-shooter-bro",
@@ -826,7 +826,7 @@ const GAMES = [
     "categories": [
       "Driving"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/driving/Galactic Driver.jpg"
   },
   {
     "slug": "galactic-traffic",
@@ -835,7 +835,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Galactic Traffic.png"
   },
   {
     "slug": "geometry-dash-scratch",
@@ -844,7 +844,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Geometry Dash Scratch.webp"
   },
   {
     "slug": "geometry-escape",
@@ -853,7 +853,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Geometry Escape.webp"
   },
   {
     "slug": "geometry-rash",
@@ -862,7 +862,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Geometry Rash.webp"
   },
   {
     "slug": "geometry-vector",
@@ -871,7 +871,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Geometry Vector.webp"
   },
   {
     "slug": "getting-over-it",
@@ -880,7 +880,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Getting Over It.jpg"
   },
   {
     "slug": "grandmaster-chess",
@@ -898,7 +898,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Gummy Blocks.webp"
   },
   {
     "slug": "head-ball-online",
@@ -907,7 +907,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Head Ball Online.png"
   },
   {
     "slug": "head-basketball",
@@ -916,7 +916,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Head Basketball.jpg"
   },
   {
     "slug": "head-soccer-2022",
@@ -934,7 +934,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Head Soccer Football.png"
   },
   {
     "slug": "hero-dragon-power",
@@ -943,7 +943,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Hero Dragon Power.webp"
   },
   {
     "slug": "hero-rush-tower-defense",
@@ -952,7 +952,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Hero Rush Tower Defense.jpg"
   },
   {
     "slug": "hexa-puzzle",
@@ -961,7 +961,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Hexa Puzzle.webp"
   },
   {
     "slug": "highway-driver",
@@ -970,7 +970,7 @@ const GAMES = [
     "categories": [
       "Driving"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/driving/Highway Driver.webp"
   },
   {
     "slug": "highway-moto",
@@ -988,7 +988,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQVdawvVPgHv424Oij0-zW-f7XMYi1DIeWpIUs02Bouq3BfF6cC8JA2pBQiiTnF04hUNmYZU7c9_UB_jLLlo3z_pTqEN3rH71ee-jTq9uo-29F1E585cAFXcyjg6d2_KkiDJNIqB4sz2WdItxmZQfDflbcMrTRnRmk8SAITmzk8fGCc0QKQY_IvaSr9Ly3vMSWaGi5s2bfuKlGTuYcVLFOc821yHjPkNncPLDhWVShg=w1280"
+    "thumbnail_url": "thumbnails/classic/Highway Racer 2.png"
   },
   {
     "slug": "highway-racer-pro",
@@ -1024,7 +1024,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Hover Racer Pro.jpg"
   },
   {
     "slug": "idle-dev-startup",
@@ -1051,7 +1051,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Interactive Buddy.webp"
   },
   {
     "slug": "jacksmith",
@@ -1060,7 +1060,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Jacksmith.png"
   },
   {
     "slug": "jeep-racing",
@@ -1105,7 +1105,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Learn To Fly 2.png"
   },
   {
     "slug": "learn-to-fly-3",
@@ -1114,7 +1114,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Learn To Fly 3.png"
   },
   {
     "slug": "learn-to-fly-4",
@@ -1123,7 +1123,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Learn To Fly 4.jpg"
   },
   {
     "slug": "learn-to-fly",
@@ -1132,7 +1132,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Learn to Fly.png"
   },
   {
     "slug": "love-calculator",
@@ -1141,7 +1141,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Love Calculator.png"
   },
   {
     "slug": "love-tester",
@@ -1150,7 +1150,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Love Tester.webp"
   },
   {
     "slug": "madalin-stunt-cars-pro",
@@ -1168,7 +1168,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Masked Forces.webp"
   },
   {
     "slug": "master-chess",
@@ -1177,7 +1177,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQVk_L1snuNcQWwUOvbJtJzKfax21Lp2joldxBvESuvvH_6WFJSJPMXF6LQi2WpGwow1qJPdLWRSGpms-WgVGYyHBTgCrevCEtnBDc-PmTzgUbF2ZZGy42zZNH6IaRnTvQkRIgRKvK4Vg-Q6e-3H1lOXORv6qBdWJQS6EwXwjHNDKrR3NS97iE06cQTT0Y0=w1280"
+    "thumbnail_url": "thumbnails/classic/Master Chess.webp"
   },
   {
     "slug": "mini-cars-racing",
@@ -1186,7 +1186,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/car/Mini Cars Racing.webp"
   },
   {
     "slug": "mini-shooters",
@@ -1231,7 +1231,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Monster Survivors.jpg"
   },
   {
     "slug": "monster-truck-booster",
@@ -1249,7 +1249,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Moonlight Valley.png"
   },
   {
     "slug": "moto-beach",
@@ -1276,7 +1276,7 @@ const GAMES = [
     "categories": [
       "Driving"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/driving/Motorbike Traffic.webp"
   },
   {
     "slug": "mr-bullet",
@@ -1285,7 +1285,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Mr Bullet.webp"
   },
   {
     "slug": "mystic-valley",
@@ -1294,7 +1294,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Mystic Valley.png"
   },
   {
     "slug": "neighborhood-defense",
@@ -1303,7 +1303,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Neighborhood Defense.png"
   },
   {
     "slug": "neon-moto-driver",
@@ -1312,7 +1312,7 @@ const GAMES = [
     "categories": [
       "Driving"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/driving/Neon Moto Driver.webp"
   },
   {
     "slug": "nova-clicker",
@@ -1348,7 +1348,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/OvO.webp"
   },
   {
     "slug": "papa-louie-2-when-burgers-attack",
@@ -1357,7 +1357,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa Louie 2 When Burgers Attack!.png"
   },
   {
     "slug": "papa-louie-3-when-sundaes-attack",
@@ -1366,7 +1366,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa Louie 3 When Sundaes Attack.png"
   },
   {
     "slug": "papa-louie-when-pizzas-attack",
@@ -1375,7 +1375,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa Louie When Pizzas Attack!.png"
   },
   {
     "slug": "papas-bakeria",
@@ -1384,7 +1384,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Bakeria.webp"
   },
   {
     "slug": "papas-burgeria",
@@ -1393,7 +1393,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Burgeria.webp"
   },
   {
     "slug": "papas-cheeseria",
@@ -1402,7 +1402,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Cheeseria.webp"
   },
   {
     "slug": "papas-cheeseria_1",
@@ -1411,7 +1411,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Papa's Cheeseria.webp"
   },
   {
     "slug": "papas-cupcakeria",
@@ -1420,7 +1420,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Cupcakeria.jpg"
   },
   {
     "slug": "papas-donuteria",
@@ -1429,7 +1429,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Donuteria.jpg"
   },
   {
     "slug": "papas-freezeria",
@@ -1438,7 +1438,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Freezeria.webp"
   },
   {
     "slug": "papas-hot-doggeria",
@@ -1447,7 +1447,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Hot Doggeria.png"
   },
   {
     "slug": "papas-pancakeria",
@@ -1456,7 +1456,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Pancakeria.png"
   },
   {
     "slug": "papas-pastaria",
@@ -1465,7 +1465,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Pastaria.png"
   },
   {
     "slug": "papas-pizzeria",
@@ -1474,7 +1474,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Pizzeria.png"
   },
   {
     "slug": "papas-scooperia",
@@ -1483,7 +1483,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Scooperia.png"
   },
   {
     "slug": "papas-sushiria",
@@ -1492,7 +1492,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Sushiria.webp"
   },
   {
     "slug": "papas-taco-mia",
@@ -1501,7 +1501,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Taco Mia!.webp"
   },
   {
     "slug": "papas-wingeria",
@@ -1510,7 +1510,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Papa's Wingeria.png"
   },
   {
     "slug": "paper-minecraft",
@@ -1519,7 +1519,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXXVyjel_KxVkxwigAoJPyPFw25JsSHa0usyqXwWlGRg1dPJy_yCD3uylMgi_krYf2r7gyk8Iz-ij5tv2X0NOA_r6mFOyATu6Bk1FlszW6UoCRTjAbDHQnU7uNxHwNZo3-r0NQLdsU3sBjaSj8hdMdII1JJgtH8N4sbZGGFHV86mWHpzrgUx9PQr5fDeuQ=w1280"
+    "thumbnail_url": "thumbnails/classic/Paper Minecraft.webp"
   },
   {
     "slug": "penalty-king",
@@ -1537,7 +1537,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Pinball Simulator.webp"
   },
   {
     "slug": "pixel-battle-royale",
@@ -1546,7 +1546,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Pixel Battle Royale.jpg"
   },
   {
     "slug": "pixelforces-io",
@@ -1555,7 +1555,7 @@ const GAMES = [
     "categories": [
       "io"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/io/PixelForces.io.webp"
   },
   {
     "slug": "police-chase-drifter",
@@ -1600,7 +1600,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Powerslide Kart Simulator.webp"
   },
   {
     "slug": "puppet-killer",
@@ -1645,7 +1645,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Rolling Ball.png"
   },
   {
     "slug": "run-freezenova",
@@ -1654,7 +1654,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Run FreezeNova.webp"
   },
   {
     "slug": "school-bus",
@@ -1672,7 +1672,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Scrap.png"
   },
   {
     "slug": "secret-sniper-agent",
@@ -1735,7 +1735,7 @@ const GAMES = [
     "categories": [
       "io"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQVAfCKRmLaW66REyE5RZfgJyL3ndK-mLxCjRDzpPGE1GCrkcTNVnmpG3tJ4WmCivVwTaaRs_I61roUSj7dtGW2LquK5URHqPwYiLj1_Ssz7DmGIoukL71ATk7UY69g9eImScWX-AKbOaaluirTnhgdhVn_z-9rfJrhhf5KnFwkXCC4DQ8XkTyeWCXu7V7N07q6s551NKl6qIj4VRysLiwtzvERSvPumcHANCaBF=w1280"
+    "thumbnail_url": "thumbnails/io/Snake io Scratch.png"
   },
   {
     "slug": "sniper-elite",
@@ -1753,7 +1753,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Snow Rider 3D.png"
   },
   {
     "slug": "snow-war-io",
@@ -1771,7 +1771,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Solitaire Adventure.webp"
   },
   {
     "slug": "spaceguard-io",
@@ -1780,7 +1780,7 @@ const GAMES = [
     "categories": [
       "io"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/io/SpaceGuard.io.jpg"
   },
   {
     "slug": "sportbike-simulator",
@@ -1807,7 +1807,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Stack Fire Ball.jpg"
   },
   {
     "slug": "stackball-io",
@@ -1816,7 +1816,7 @@ const GAMES = [
     "categories": [
       "io"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/io/Stackball.io.jpg"
   },
   {
     "slug": "state-io-wars",
@@ -1834,7 +1834,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Stick Guys Defense.jpg"
   },
   {
     "slug": "stickman-destruction",
@@ -1915,7 +1915,7 @@ const GAMES = [
     "categories": [
       "Driving"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/driving/Stunt Simulator Multiplayer.jpg"
   },
   {
     "slug": "su-battle-royale",
@@ -1960,7 +1960,7 @@ const GAMES = [
     "categories": [
       "Car"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/car/Supercars Drift.webp"
   },
   {
     "slug": "supermarket-simulator",
@@ -1978,7 +1978,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Survival Craft.webp"
   },
   {
     "slug": "survival-karts",
@@ -2005,7 +2005,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Tap Tap Colors.jpg"
   },
   {
     "slug": "tap-tap-shots",
@@ -2023,7 +2023,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Tetris.png"
   },
   {
     "slug": "the-crusty-quest",
@@ -2032,7 +2032,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/The Crusty Ques.png"
   },
   {
     "slug": "the-worlds-hardest-game",
@@ -2041,7 +2041,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/The Worlds Hardest Game.webp"
   },
   {
     "slug": "tic-tac-toe",
@@ -2077,7 +2077,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Tower Defense Game.png"
   },
   {
     "slug": "tower-survivor",
@@ -2086,7 +2086,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Tower Survivor.png"
   },
   {
     "slug": "tower-of-scratch",
@@ -2095,7 +2095,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/Tower of Scratch.png"
   },
   {
     "slug": "toy-cars",
@@ -2131,7 +2131,7 @@ const GAMES = [
     "categories": [
       "Shooting"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/shooting/Unblocked Shooters.jpg"
   },
   {
     "slug": "urban-sniper",
@@ -2149,7 +2149,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQUvEH_vp2vjOVDrOigSXYxETm-kn-bdul5bGxjbWhv5FuRlUQwj9a7HQmQLkgBMAL0CfaN0DiGNTGJfjSqAoA9JxQo0DRt39pphxyWDYRJjqlcYFly2AEix4bXt6n27cT_7HPlfVZ2CB6IF2BIElVWDujinRcKeMfHM3rZ0ci9X-QytyksRhFVLeDLgbAg=w1280"
+    "thumbnail_url": "thumbnails/classic/Vehicles Simulator.webp"
   },
   {
     "slug": "vehicles-simulator-2",
@@ -2167,7 +2167,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/Velocity Rush.webp"
   },
   {
     "slug": "void-city",
@@ -2221,7 +2221,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQXroh7q1i3DdEGrqLMtQYuGzWTFq6Ldm47wW1lIUkAUE6gWYM-Q0y-HMzk9tdnVopBZJ-jKBYBToS-_R8RY6M1S-P7TDGORyoN-LTC2RMZ2nQdWtvVD3kVUE5Ff9ITn3VFwI0WcRY5KysKy2QkaLoR8FxhOTclc50l3gPrQ4EvtF6aPn5NryUwTgbmUrqkx-1tI8t3BlmJUraTrpt0R"
+    "thumbnail_url": "thumbnails/classic/We Become What We Behold.jpg"
   },
   {
     "slug": "worlds-hardest-game",
@@ -2230,7 +2230,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/World's Hardest Game.webp"
   },
   {
     "slug": "xmas-cookie-clicker",
@@ -2248,7 +2248,7 @@ const GAMES = [
     "categories": [
       "Classic"
     ],
-    "thumbnail_url": "https://lh3.googleusercontent.com/sitesv/AG8ngQWAE8kEn_8s0pkCR-R6ckfmOIOlq8vRFdfQL1EZiJOIsCoDvIISyP0z2GnU4ggcMI1PPj8CZpx4twe6eH3Cn6ZvkSkHYGY4pnLTCv97cED-o1jSaCI6FI6PQeDf9Lif4x2vmxvBQRDuuVI3WNaS2oFqmTvydYuoAuIgyoPNgEA42kX1IJ_S0Braf3ZTKcUV3b2Diw2ChKbIuVIcMwsV"
+    "thumbnail_url": "thumbnails/classic/dragon simulator 3d.png"
   }
 ];
 
