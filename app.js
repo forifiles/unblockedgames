@@ -1,4 +1,4 @@
-// Unblocked Games 77 Premium - Application Engine
+// Recess Lab - Application Engine
 const GAMES = [
   {
     "slug": "2-player-crazy-racer",
@@ -2401,7 +2401,7 @@ function showHomeView() {
   
   // Stop the iframe content
   elements.gameIframe.src = 'about:blank';
-  document.title = 'Recess Lab Premium - Play 250+ Best Unblocked Games';
+  document.title = 'Recess Lab';
   
   // Recalculate layout
   renderGames();
@@ -2422,7 +2422,7 @@ function showPlayView(game) {
   // Set details
   elements.gameTitle.textContent = game.name;
   elements.gameCategory.textContent = game.categories.join(', ');
-  document.title = `${game.name} - Play Recess Lab Premium`;
+  document.title = `${game.name} - Recess Lab`;
   
   // Set iframe source
   elements.gameIframe.src = game.play_url;
